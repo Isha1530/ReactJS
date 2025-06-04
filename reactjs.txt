@@ -1,0 +1,37 @@
+Create App command:
+	create-react-app app_name
+
+
+
+
+
+
+info about react app folder:
+	
+	node_modules : all dependencies code in this folder
+	public : index.html file
+	src : css and js files
+	package.json : it have all dependencies ,and app details
+	 
+
+
+
+
+
+React Components : 
+
+	example:
+
+		function HelloWorld(){
+		return <h1>Hello World</h1>
+		}
+
+
+	rules:
+
+		1) should be return JSX : means javascript XML not string 
+		2) component name must start with uppercase letter
+
+		
+
+	
